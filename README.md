@@ -5,4 +5,4 @@ token.
 
 Used array to keep track of players current positions and be able to display winner when 3 in row is achieved.  
 
-![](images/tictactGameView.png)
+![](tictactGameView.png)
