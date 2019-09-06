@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">connect3</string>
+    <string name="redCoin">redCoin</string>
+</resources>
