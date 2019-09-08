@@ -1,4 +1,4 @@
-# Tic Tac T
+# Tic Tac T 
 
 Android game created in Android Studio.   
 Created a Tic Tac toe game with Grid Layout and image buttons to be able to click on the screen and drop a yellow or red
